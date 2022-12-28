@@ -16,8 +16,7 @@ pandas==1.1.5</br>
 #### 初始学习率设置
 
 #### 模型整体结构图如下：
-
-![图片5](https://user-images.githubusercontent.com/48280188/209456796-a0362234-4bd0-470f-8733-90f5cd1ff696.png)
+![image](https://user-images.githubusercontent.com/48280188/209778676-8a9393a9-2a21-41bc-92b6-9101607c589a.png)
 
 #### 实验结果
 
