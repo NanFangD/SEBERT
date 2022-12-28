@@ -2,8 +2,6 @@
 基于语义信息的命名实体识别模型，通过将语义信息融入到字向量中增强模型对长实体的检测能力，并通过混合loss提高模型的学习能力。
 实验结果表明，该文提出的模型不仅适用于疫情文本数据，对比基线模型在4个中文数据集上F1值都有较高的提升。
 COVID数据集已经放在了dataset中
-![image](https://user-images.githubusercontent.com/48280188/209456720-48d5e7e2-feb9-49d0-8345-bab0ed9885f1.png)
-
 
 #### requirements
 python==3.6</br>
