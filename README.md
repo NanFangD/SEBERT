@@ -14,9 +14,10 @@ tensorboard==2.10.0</br>
 pandas==1.1.5</br>
 
 #### 初始学习率设置
-
-#### 模型整体结构图如下：
 ![image](https://user-images.githubusercontent.com/48280188/209778676-8a9393a9-2a21-41bc-92b6-9101607c589a.png)
+#### 模型整体结构图如下：
+![image](https://user-images.githubusercontent.com/48280188/209778827-91f18302-590a-484d-8aea-3af58db71a06.png)
+
 
 #### 实验结果
 
